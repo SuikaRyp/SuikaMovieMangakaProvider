@@ -1,0 +1,86 @@
+{
+  "name": "SuikaMovie Mangaka Provider",
+  "description": "Default manga + novel sources for SuikaMovie Mangaka.",
+  "sources": [
+    {
+      "id": "freewebnovel",
+      "name": "FreeWebNovel",
+      "version": "1.0.0",
+      "type": "novel",
+      "lang": "en",
+      "file": "freewebnovel.js",
+      "logo": "https://freewebnovel.com/files/article/image/logo.png",
+      "nsfw": false
+    },
+    {
+      "id": "mangakakalot",
+      "name": "Mangakakalot",
+      "version": "1.0.0",
+      "type": "manga",
+      "lang": "en",
+      "file": "mangakakalot.js",
+      "logo": "https://mangakakalot.fun/logo.png",
+      "nsfw": false
+    },
+    {
+      "id": "mangakatana",
+      "name": "Mangakatana",
+      "version": "1.0.0",
+      "type": "manga",
+      "lang": "en",
+      "file": "mangakatana.js",
+      "logo": "https://mangakatana.com/static/img/logo.png",
+      "nsfw": false
+    },
+    {
+      "id": "mangapill",
+      "name": "Mangapill",
+      "version": "1.0.0",
+      "type": "manga",
+      "lang": "en",
+      "file": "mangapill.js",
+      "logo": "https://mangapill.com/static/favicon.ico",
+      "nsfw": false
+    },
+    {
+      "id": "novelbin",
+      "name": "NovelBin",
+      "version": "1.0.0",
+      "type": "novel",
+      "lang": "en",
+      "file": "novelbin.js",
+      "logo": "https://novelbin.com/img/logo.png",
+      "nsfw": false
+    },
+    {
+      "id": "weebcentral",
+      "name": "WeebCentral",
+      "version": "1.0.3",
+      "type": "manga",
+      "lang": "en",
+      "file": "weebcentral.js",
+      "logo": "https://weebcentral.com/static/images/brand.png",
+      "nsfw": false
+    },
+    {
+      "id": "gutenberg",
+      "name": "Project Gutenberg",
+      "version": "1.0.2",
+      "type": "novel",
+      "lang": "multi",
+      "file": "gutenberg.js",
+      "logo": "https://www.gutenberg.org/gutenberg/pg-logo-129x80.png",
+      "nsfw": false
+    },
+    {
+      "id": "komiku",
+      "name": "Komiku",
+      "version": "1.0.0",
+      "type": "manga",
+      "lang": "id",
+      "file": "komiku.js",
+      "logo": "https://komiku.org/favicon.ico",
+      "nsfw": false
+    }
+  ]
+}
